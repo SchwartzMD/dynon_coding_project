@@ -1,3 +1,5 @@
+This repo uses the socket IPC methodology to complete the given coding project.
+
 To run:
 
 compiling:
